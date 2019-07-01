@@ -32,9 +32,6 @@ public class Swagger2Configuration {
                 .version("1.0")
                 .build();
     }
-	public void test(){
-		system.out.println("hello world");
-	}
 
     public void test(){
         System.out.println("test project");
