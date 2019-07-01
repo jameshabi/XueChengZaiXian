@@ -33,4 +33,8 @@ public class Swagger2Configuration {
                 .build();
     }
 
+    public void test(){
+        System.out.println("test project");
+    }
+
 }
